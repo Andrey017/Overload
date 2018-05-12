@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "complex.h"
 
 Complex::Complex(double re, double im) {
